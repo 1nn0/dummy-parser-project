@@ -25,6 +25,7 @@ from pathlib import Path
 
 # print(headers)
 
+
 property_html = Path('result_property.htm')
 
 test_dataclass = PropertyData(property_html)
